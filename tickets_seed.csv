@@ -1,0 +1,5 @@
+id,emp_id,summary,status,priority,created
+HR-1001,E101,Request for employment verification letter,Resolved,Normal,2026-09-18 11:02
+HR-1002,E102,Query on reimbursement rejected as late,In Progress,Normal,2026-10-01 15:40
+HR-1003,E103,Name correction on payslip,Open,Normal,2026-10-05 09:15
+HR-1004,E101,Health insurance - add spouse mid-year,In Progress,Normal,2026-10-03 17:25
